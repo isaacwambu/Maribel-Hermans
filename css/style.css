@@ -9,3 +9,22 @@
     padding: 1%;
     text-align: center;
 }
+nav{
+    color: blue;
+    font-size: 1.8rem;
+    font-weight: 500px;
+    margin-left: 30%;
+  
+}
+nav li{
+    list-style: none;
+    display: inline-block;
+    padding: 1%;
+    text-align: center;
+    
+   
+}
+nav li a{
+    text-decoration: none;
+    
+}
