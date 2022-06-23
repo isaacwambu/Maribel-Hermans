@@ -28,3 +28,67 @@ nav li a{
     text-decoration: none;
     
 }
+.container{
+    background-color: blue;
+    padding: 2%;
+    font-size: 1.5rem;
+    margin-bottom: 1%;
+}
+.image img{
+    height: 50vh;
+    width: 100%;
+
+}
+.about{
+    background-color: white;
+    padding: 1%;
+    text-align: center;
+}
+.about h2{
+    color: blue;
+}
+.mvision .row{
+    background: url("../img/Audit\ and\ Assurance.jpg");
+    
+}
+.mvision .row .col-md-6{
+    
+}
+.mission{
+    padding: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: white;
+}
+.vision{
+    padding: 2%;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: white;
+}
+.values{
+    background-color: blue;
+    padding: 2%;
+}
+.our-values{
+    text-align: center;
+    font-size: 1.5rem;
+}
+.our-values h2{
+    color:blue;
+
+}
+.row{
+    background-color: white;
+    padding: 2%;
+}
+.row h3{
+    color:blue;
+}
+.col-md-4{
+    padding: 2%;
+    font-size: 1.2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 10px;
+    background-color: white;
+}
