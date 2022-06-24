@@ -54,6 +54,32 @@ nav li a{
 .abouts h4{
     color: blue;
 }
+
+.services{
+    background: url( '../img/Audit\ and\ Assurance.jpg') no-repeat center;
+    background-attachment: fixed;
+    background-size: cover;
+
+}
+.service{
+    padding: 2%;
+    margin-left: 25%;
+}
+.service h2{
+    color:blue;
+    font-size: 3rem;
+    margin-left: 20%;
+}
+.service ul a{
+    color: white;
+    font-size: 2rem;
+    font-weight: bold;
+    line-height: 2.5;
+}
+
+
+
+
 .mission{
     padding: 2%;
 }
