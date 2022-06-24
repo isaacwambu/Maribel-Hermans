@@ -94,4 +94,15 @@ nav li a{
 
 footer{
     background-color: blue;
+    padding: 1%;
+}
+.enclose .row{
+    background-color: blue;
+}
+.enclose .row .col-md-4{
+    background-color: blue;
+    
+}
+.enclose .row .col-md-4 a{
+    color: white;
 }
