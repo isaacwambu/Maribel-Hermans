@@ -132,3 +132,13 @@ footer{
 .enclose .row .col-md-4 a{
     color: white;
 }
+
+/* careers page*/
+
+.career{
+    background-color: white;
+    padding: 2%;
+}
+.careerss{
+    text-align: center;
+}
