@@ -47,24 +47,8 @@ nav li a{
 .about h2{
     color: blue;
 }
-.mvision .row{
-    background: url("../img/Audit\ and\ Assurance.jpg");
-    
-}
-.mvision .row .col-md-6{
-    
-}
 .mission{
     padding: 2%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    border-radius: 10px;
-    background-color: white;
-}
-.vision{
-    padding: 2%;
-    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-    border-radius: 10px;
-    background-color: white;
 }
 .values{
     background-color: blue;
@@ -77,6 +61,11 @@ nav li a{
 .our-values h2{
     color:blue;
 
+}
+.overall{
+    border-radius: 10px;
+    background-color: white;
+    
 }
 .row{
     background-color: white;
