@@ -59,22 +59,41 @@ nav li a{
     background: url( '../img/Audit\ and\ Assurance.jpg') no-repeat center;
     background-attachment: fixed;
     background-size: cover;
+    padding: 5%;
 
 }
 .service{
     padding: 2%;
     margin-left: 25%;
+    background-color: blue;
+    width: 60%;
+    border-radius: 10px;
 }
 .service h2{
-    color:blue;
+    color:white;
     font-size: 3rem;
     margin-left: 20%;
+}
+.services ul{
+    color: white;
+    font-weight: bold;
 }
 .service ul a{
     color: white;
     font-size: 2rem;
     font-weight: bold;
     line-height: 2.5;
+}
+#learn{
+    background-color: white;
+    color: blue;
+    padding: 5px 10px;
+    border-radius: 10px;
+    border: none;
+  
+}
+#learn a{
+    text-decoration: none;
 }
 
 
