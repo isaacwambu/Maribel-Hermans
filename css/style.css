@@ -156,3 +156,22 @@ footer{
     background-color: white;
     padding: 2%;
 }
+.servicces h2{
+    text-align: center;
+    color: blue;
+}
+.par{
+    text-align: center;
+}
+
+.servicces h4{
+    color: blue;
+}
+.servicces h3{
+    color: blue;
+}
+.key-industries{
+    text-align: center;
+    color: white;
+    font-weight: bold;
+}
