@@ -147,10 +147,18 @@ footer{
 }
 .enclose .row .col-md-4{
     background-color: blue;
+    box-shadow: none;
+    border-radius: 0;
     
+}
+.enclose .row .col-md-4 ul{
+    color: white;
 }
 .enclose .row .col-md-4 a{
     color: white;
+}
+#line{
+    border-right: 1px solid white;
 }
 
 /* careers page*/
@@ -218,7 +226,7 @@ footer{
 
 
 
-
+/* The sliding images*/
 
 
 .slide{
