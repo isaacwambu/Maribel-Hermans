@@ -149,6 +149,13 @@ nav li a{
     border-left: none;
     border-right: none;
 }
+.form input :active{
+    padding: 5px 20px;
+    border-bottom: 1px solid blue;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
 .form select{
     padding: 5px 20px;
     border-bottom: 1px solid blue;
@@ -325,4 +332,11 @@ footer{
     padding: 3%;
     height: 50vh;
     width: 100%;
+}
+
+/*contact.html*/
+
+.col-md-6{
+    padding: 2%;
+    
 }
