@@ -138,7 +138,37 @@ nav li a{
     border-radius: 10px;
     background-color: white;
 }
-
+.form{
+    background-color: white;
+    padding: 2%;
+}
+.form input{
+    padding: 5px 20px;
+    border-bottom: 1px solid blue;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.form select{
+    padding: 5px 20px;
+    border-bottom: 1px solid blue;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+.form button{
+    padding: 5px 20px;
+    border-radius: 10px;
+    color: white;
+    background-color: blue;
+    border: none;
+    margin-right: 5%;
+}
+.form h3{
+    color: blue;
+    font-size: 2rem;
+    font-weight: bold;
+}
 footer{
     background-color: blue;
     padding: 1%;
