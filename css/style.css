@@ -9,6 +9,7 @@
     padding: 1%;
     text-align: center;
 }
+
 nav{
     color: blue;
     font-size: 1.8rem;
@@ -212,7 +213,7 @@ footer{
 
 .social{
     background-color: blue;
-    width: 15%;
+   
     float:right;
     
 }
